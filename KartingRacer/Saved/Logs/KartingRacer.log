@@ -1138,3 +1138,648 @@ The current user directory, for saving user-specific settings:
 [2025.02.11-13.20.48:948][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
 
 [2025.02.11-13.20.48:954][  1]Running Python start-up script 'C:/Unreal Engine/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.037025 secs
+[2025.02.11-13.22.40:276][402]LogDerivedDataCache: C:/Users/l3-burge/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.115 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3774 files in 5287 folders with total size 193 MiB.
+[2025.02.11-13.24.55:499][722]Cmd: DELETE
+[2025.02.11-13.24.55:499][722]Cmd: ACTOR DELETE
+[2025.02.11-13.24.55:501][722]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.24.55:505][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.11-13.24.55:505][722]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.02.11-13.24.58:480][ 56]Cmd: DELETE
+[2025.02.11-13.24.58:480][ 56]Cmd: ACTOR DELETE
+[2025.02.11-13.24.58:481][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.24.58:482][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.24.58:484][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.24.58:484][ 56]LogEditorActor: Deleted 2 Actors (0.004 secs)
+[2025.02.11-13.24.58:977][104]Cmd: DELETE
+[2025.02.11-13.24.58:977][104]Cmd: ACTOR DELETE
+[2025.02.11-13.24.58:978][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.24.58:980][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.24.58:980][104]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.24.59:536][156]Cmd: DELETE
+[2025.02.11-13.24.59:536][156]Cmd: ACTOR DELETE
+[2025.02.11-13.24.59:537][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.24.59:539][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.24.59:539][156]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.00:113][213]Cmd: DELETE
+[2025.02.11-13.25.00:114][213]Cmd: ACTOR DELETE
+[2025.02.11-13.25.00:114][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.00:117][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.25.00:117][213]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.00:723][274]Cmd: DELETE
+[2025.02.11-13.25.00:723][274]Cmd: ACTOR DELETE
+[2025.02.11-13.25.00:724][274]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.00:726][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.25.00:727][274]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.01:668][375]Cmd: DELETE
+[2025.02.11-13.25.01:668][375]Cmd: ACTOR DELETE
+[2025.02.11-13.25.01:668][375]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.01:670][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.25.01:671][375]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.02:303][437]Cmd: DELETE
+[2025.02.11-13.25.02:303][437]Cmd: ACTOR DELETE
+[2025.02.11-13.25.02:304][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.02:306][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.25.02:307][437]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.02:739][478]Cmd: DELETE
+[2025.02.11-13.25.02:739][478]Cmd: ACTOR DELETE
+[2025.02.11-13.25.02:739][478]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.02:742][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.02.11-13.25.02:742][478]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.03:374][546]Cmd: DELETE
+[2025.02.11-13.25.03:374][546]Cmd: ACTOR DELETE
+[2025.02.11-13.25.03:375][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.03:377][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.25.03:378][546]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.03:853][591]Cmd: DELETE
+[2025.02.11-13.25.03:853][591]Cmd: ACTOR DELETE
+[2025.02.11-13.25.03:854][591]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.03:856][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.25.03:857][591]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.04:759][691]Cmd: DELETE
+[2025.02.11-13.25.04:759][691]Cmd: ACTOR DELETE
+[2025.02.11-13.25.04:759][691]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.04:764][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.25.04:764][691]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2025.02.11-13.25.05:329][748]Cmd: DELETE
+[2025.02.11-13.25.05:329][748]Cmd: ACTOR DELETE
+[2025.02.11-13.25.05:330][748]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.05:333][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.25.05:333][748]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.05:932][808]Cmd: DELETE
+[2025.02.11-13.25.05:932][808]Cmd: ACTOR DELETE
+[2025.02.11-13.25.05:933][808]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.05:936][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.25.05:937][808]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2025.02.11-13.25.06:728][891]Cmd: DELETE
+[2025.02.11-13.25.06:728][891]Cmd: ACTOR DELETE
+[2025.02.11-13.25.06:729][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.06:731][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.11-13.25.06:731][891]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.07:213][938]Cmd: DELETE
+[2025.02.11-13.25.07:213][938]Cmd: ACTOR DELETE
+[2025.02.11-13.25.07:214][938]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.07:216][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.02.11-13.25.07:216][938]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.07:748][990]Cmd: DELETE
+[2025.02.11-13.25.07:748][990]Cmd: ACTOR DELETE
+[2025.02.11-13.25.07:749][990]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.07:752][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.25.07:753][990]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.08:185][ 30]Cmd: DELETE
+[2025.02.11-13.25.08:185][ 30]Cmd: ACTOR DELETE
+[2025.02.11-13.25.08:186][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.08:189][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.25.08:189][ 30]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.08:720][ 86]Cmd: DELETE
+[2025.02.11-13.25.08:721][ 86]Cmd: ACTOR DELETE
+[2025.02.11-13.25.08:721][ 86]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.08:724][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.02.11-13.25.08:724][ 86]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.09:416][157]Cmd: DELETE
+[2025.02.11-13.25.09:416][157]Cmd: ACTOR DELETE
+[2025.02.11-13.25.09:417][157]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.09:419][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.25.09:420][157]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.10:034][219]Cmd: DELETE
+[2025.02.11-13.25.10:034][219]Cmd: ACTOR DELETE
+[2025.02.11-13.25.10:035][219]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.10:037][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.25.10:038][219]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.10:463][262]Cmd: DELETE
+[2025.02.11-13.25.10:463][262]Cmd: ACTOR DELETE
+[2025.02.11-13.25.10:464][262]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.10:466][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.25.10:466][262]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.25.10:898][306]Cmd: DELETE
+[2025.02.11-13.25.10:898][306]Cmd: ACTOR DELETE
+[2025.02.11-13.25.10:899][306]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.25.10:901][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.25.10:901][306]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.26.30:901][726]Cmd: DELETE
+[2025.02.11-13.26.30:901][726]Cmd: ACTOR DELETE
+[2025.02.11-13.26.30:902][726]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.26.30:904][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.26.30:905][726]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.26.31:500][785]Cmd: DELETE
+[2025.02.11-13.26.31:500][785]Cmd: ACTOR DELETE
+[2025.02.11-13.26.31:500][785]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.26.31:504][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.26.31:505][785]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2025.02.11-13.26.32:210][859]Cmd: DELETE
+[2025.02.11-13.26.32:210][859]Cmd: ACTOR DELETE
+[2025.02.11-13.26.32:211][859]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.26.32:213][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.26.32:213][859]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.26.32:847][928]Cmd: DELETE
+[2025.02.11-13.26.32:847][928]Cmd: ACTOR DELETE
+[2025.02.11-13.26.32:848][928]LogEditorActor: Deleted Actor: TextRenderActor
+[2025.02.11-13.26.32:851][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.26.32:851][928]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2025.02.11-13.26.33:395][986]Cmd: DELETE
+[2025.02.11-13.26.33:395][986]Cmd: ACTOR DELETE
+[2025.02.11-13.26.33:396][986]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.26.33:398][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.26.33:399][986]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.11-13.27.01:402][ 98]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-13.27.01:460][ 99]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-13.27.01:664][121]LogSlate: Took 0.002946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.02.11-13.27.10:242][  8]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.02.11-13.27.13:274][336]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.02.11-13.27.13:580][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.27.13:631][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.11-13.27.13:634][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.02.11-13.27.13:638][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.02.11-13.27.13:649][367]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.004777 seconds
+[2025.02.11-13.27.13:651][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2025.02.11-13.27.13:653][367]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/NG2R9BPZVA7ZDN0Z4VSTG666806B22447212757EFB299F3F1F0414.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2025.02.11-13.27.13:657][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2025.02.11-13.27.13:658][367]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/SWSI13675DVYIZ0N4NF7Y3441040A5411A59BD57417E8FAF58D89D.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2025.02.11-13.27.13:668][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms
+[2025.02.11-13.27.13:675][367]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.11-13.27.13:675][367]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2025.02.11-13.27.13:675][367]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+[2025.02.11-13.30.45:545][320]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.02.11-13.40.01:535][988]LogSlate: Took 0.008034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.11-13.40.05:162][352]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.11-13.40.05:179][352]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.11-13.40.05:187][353]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.11-13.40.07:606][624]LogContentBrowser: Attempting asset rename: NewFolder -> Vehicles
+[2025.02.11-13.40.07:607][624]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.11-13.44.11:628][ 74]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 \\nstu-nas01.uwe.ac.uk\users3$\l3-burge\Windows\Downloads\Designersoup Low Poly Car Pack Volume 1 updated\Landyroamer.fbx)
+[2025.02.11-13.44.11:664][ 74]LogFbx: Loading FBX Scene from \\nstu-nas01.uwe.ac.uk\users3$\l3-burge\Windows\Downloads\Designersoup Low Poly Car Pack Volume 1 updated\Landyroamer.fbx
+[2025.02.11-13.44.11:680][ 74]LogFbx: FBX Scene Loaded Succesfully
+[2025.02.11-13.44.12:920][ 74]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.02.11-13.44.13:048][ 74]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.02.11-13.44.13:048][ 74]LogTexture: Display: Building textures: /Game/Vehicles/387359c5580f06c08c266126b3b46db47e48ba44.387359c5580f06c08c266126b3b46db47e48ba44 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2025.02.11-13.44.13:057][ 74]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.02.11-13.44.13:057][ 74]LogTexture: Display: Building textures: /Game/Vehicles/387359c5580f06c08c266126b3b46db47e48ba44_ncl1_1.387359c5580f06c08c266126b3b46db47e48ba44_ncl1_1 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2025.02.11-13.44.13:060][ 74]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.02.11-13.44.13:060][ 74]LogTexture: Display: Building textures: /Game/Vehicles/387359c5580f06c08c266126b3b46db47e48ba44_ncl1_2.387359c5580f06c08c266126b3b46db47e48ba44_ncl1_2 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2025.02.11-13.44.13:067][ 74]LogFbx: Display: Triangulating static mesh landy
+[2025.02.11-13.44.13:125][ 74]LogStaticMesh: Display: Building static mesh Landyroamer_landy...
+[2025.02.11-13.44.13:145][ 74]LogStaticMesh: Built static mesh [0.02s] /Game/Vehicles/Landyroamer_landy.Landyroamer_landy
+[2025.02.11-13.44.13:149][ 74]LogStaticMesh: Warning: Landyroamer_landy has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.02.11-13.44.13:149][ 74]LogStaticMesh: Warning: Landyroamer_landy has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.11-13.44.13:156][ 74]LogFbx: Display: Triangulating static mesh bonnetPlates
+[2025.02.11-13.44.13:159][ 74]LogStaticMesh: Display: Building static mesh Landyroamer_bonnetPlates...
+[2025.02.11-13.44.13:160][ 74]LogStaticMesh: Built static mesh [0.00s] /Game/Vehicles/Landyroamer_bonnetPlates.Landyroamer_bonnetPlates
+[2025.02.11-13.44.13:163][ 74]LogFbx: Display: Triangulating static mesh bullBar
+[2025.02.11-13.44.13:173][ 74]LogStaticMesh: Display: Building static mesh Landyroamer_bullBar...
+[2025.02.11-13.44.13:177][ 74]LogStaticMesh: Built static mesh [0.00s] /Game/Vehicles/Landyroamer_bullBar.Landyroamer_bullBar
+[2025.02.11-13.44.13:177][ 74]LogStaticMesh: Warning: Landyroamer_bullBar has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.02.11-13.44.13:177][ 74]LogStaticMesh: Warning: Landyroamer_bullBar has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.11-13.44.13:181][ 74]LogFbx: Display: Triangulating static mesh roofRack
+[2025.02.11-13.44.13:214][ 74]LogStaticMesh: Display: Building static mesh Landyroamer_roofRack...
+[2025.02.11-13.44.13:224][ 74]LogStaticMesh: Built static mesh [0.01s] /Game/Vehicles/Landyroamer_roofRack.Landyroamer_roofRack
+[2025.02.11-13.44.13:226][ 74]LogStaticMesh: Warning: Landyroamer_roofRack has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.02.11-13.44.13:226][ 74]LogStaticMesh: Warning: Landyroamer_roofRack has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.11-13.44.13:231][ 74]LogFbx: Display: Triangulating static mesh snorkel
+[2025.02.11-13.44.13:235][ 74]LogStaticMesh: Display: Building static mesh Landyroamer_snorkel...
+[2025.02.11-13.44.13:237][ 74]LogStaticMesh: Built static mesh [0.00s] /Game/Vehicles/Landyroamer_snorkel.Landyroamer_snorkel
+[2025.02.11-13.44.13:240][ 74]LogFbx: Display: Triangulating static mesh lfWheel.003
+[2025.02.11-13.44.13:249][ 74]LogStaticMesh: Display: Building static mesh Landyroamer_lfWheel_003...
+[2025.02.11-13.44.13:252][ 74]LogStaticMesh: Built static mesh [0.00s] /Game/Vehicles/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.44.13:256][ 74]LogFbx: Display: Triangulating static mesh rfWheel.003
+[2025.02.11-13.44.13:268][ 74]LogStaticMesh: Display: Building static mesh Landyroamer_rfWheel_003...
+[2025.02.11-13.44.13:273][ 74]LogStaticMesh: Built static mesh [0.00s] /Game/Vehicles/Landyroamer_rfWheel_003.Landyroamer_rfWheel_003
+[2025.02.11-13.44.13:277][ 74]LogFbx: Display: Triangulating static mesh rrWheel.001
+[2025.02.11-13.44.13:291][ 74]LogStaticMesh: Display: Building static mesh Landyroamer_rrWheel_001...
+[2025.02.11-13.44.13:296][ 74]LogStaticMesh: Built static mesh [0.00s] /Game/Vehicles/Landyroamer_rrWheel_001.Landyroamer_rrWheel_001
+[2025.02.11-13.44.13:301][ 74]LogFbx: Display: Triangulating static mesh rfWheel.002
+[2025.02.11-13.44.13:313][ 74]LogStaticMesh: Display: Building static mesh Landyroamer_rfWheel_002...
+[2025.02.11-13.44.13:317][ 74]LogStaticMesh: Built static mesh [0.00s] /Game/Vehicles/Landyroamer_rfWheel_002.Landyroamer_rfWheel_002
+[2025.02.11-13.44.13:342][ 74]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture '387359c5580f06c08c266126b3b46db47e48ba44' was renamed '387359c5580f06c08c266126b3b46db47e48ba44_ncl1_1' 
+[2025.02.11-13.44.13:343][ 74]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture '387359c5580f06c08c266126b3b46db47e48ba44' was renamed '387359c5580f06c08c266126b3b46db47e48ba44_ncl1_2' 
+[2025.02.11-13.44.13:343][ 74]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.02.11-13.44.13:343][ 74]FBXImport: Warning: Landyroamer_landy has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2025.02.11-13.44.13:343][ 74]FBXImport: Warning: Landyroamer_landy has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.02.11-13.44.13:343][ 74]FBXImport: Warning: Landyroamer_bullBar has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2025.02.11-13.44.13:343][ 74]FBXImport: Warning: Landyroamer_bullBar has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.02.11-13.44.13:343][ 74]FBXImport: Warning: Landyroamer_roofRack has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2025.02.11-13.44.13:343][ 74]FBXImport: Warning: Landyroamer_roofRack has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: ================================================
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 5 distinct outputs (100.00%)
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: RAM used: 99.83 KiB of 3.20 GiB budget. Usage: 0.00%
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Jobs assigned 12, completed 5 (41.67%)
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.03 s
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Job execution time: average 1.77 s, max 1.77 s
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Job life time (pending + execution): average 1.78 s, max 1.80
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Shader code size: average 32.866 KiB, min 29.711 KiB, max 35.387 KiB
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.80 s
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Average processing rate: 2.78 jobs/sec
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Total thread time: 1.446 s
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Total thread preprocess time: 0.961 s
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Percentage time preprocessing: 66.45%
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Effective parallelization: 0.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.26 sec, max 0.27 sec, min 0.24 sec)
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 54.35% of total time (compiled    3 times, average 0.26 sec, max 0.27 sec, min 0.24 sec)
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.92% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.73% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.02.11-13.44.15:347][244]LogShaderCompilers: Display: ================================================
+[2025.02.11-13.44.15:975][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.44.16:060][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Landyroamer_bonnetPlates" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_bonnetPlates.uasset" SILENT=true
+[2025.02.11-13.44.16:063][309]LogSavePackage: Moving output files for package: /Game/Vehicles/Landyroamer_bonnetPlates
+[2025.02.11-13.44.16:063][309]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_bonnetPlatesADFF907B4A70A0A6B6306BB5C53F414A.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_bonnetPlates.uasset'
+[2025.02.11-13.44.16:069][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Landyroamer_bullBar" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_bullBar.uasset" SILENT=true
+[2025.02.11-13.44.16:072][309]LogSavePackage: Moving output files for package: /Game/Vehicles/Landyroamer_bullBar
+[2025.02.11-13.44.16:072][309]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_bullBar333666834249D9DDE7ED2586FB7C960D.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_bullBar.uasset'
+[2025.02.11-13.44.16:078][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Landyroamer_landy" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_landy.uasset" SILENT=true
+[2025.02.11-13.44.16:082][309]LogSavePackage: Moving output files for package: /Game/Vehicles/Landyroamer_landy
+[2025.02.11-13.44.16:082][309]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_landy41B4262445003433BCDD87B42EB3A39C.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_landy.uasset'
+[2025.02.11-13.44.16:088][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Landyroamer_lfWheel_003" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_lfWheel_003.uasset" SILENT=true
+[2025.02.11-13.44.16:091][309]LogSavePackage: Moving output files for package: /Game/Vehicles/Landyroamer_lfWheel_003
+[2025.02.11-13.44.16:091][309]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_lfWheel_003C4AA5C4D45C099CA01D24BBFB0AB9D34.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_lfWheel_003.uasset'
+[2025.02.11-13.44.16:096][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Landyroamer_rfWheel_002" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_rfWheel_002.uasset" SILENT=true
+[2025.02.11-13.44.16:099][309]LogSavePackage: Moving output files for package: /Game/Vehicles/Landyroamer_rfWheel_002
+[2025.02.11-13.44.16:099][309]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_rfWheel_002AC52B03E47DFFFA957C6B89CA194688F.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_rfWheel_002.uasset'
+[2025.02.11-13.44.16:105][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Landyroamer_rfWheel_003" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_rfWheel_003.uasset" SILENT=true
+[2025.02.11-13.44.16:107][309]LogSavePackage: Moving output files for package: /Game/Vehicles/Landyroamer_rfWheel_003
+[2025.02.11-13.44.16:107][309]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_rfWheel_0039B2EF6F84DFADE14DD47928C39A3A092.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_rfWheel_003.uasset'
+[2025.02.11-13.44.16:113][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Landyroamer_roofRack" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_roofRack.uasset" SILENT=true
+[2025.02.11-13.44.16:116][309]LogSavePackage: Moving output files for package: /Game/Vehicles/Landyroamer_roofRack
+[2025.02.11-13.44.16:116][309]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_roofRack9BE443B84020D4A2A3317AAC6CC21748.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_roofRack.uasset'
+[2025.02.11-13.44.16:122][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Landyroamer_rrWheel_001" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_rrWheel_001.uasset" SILENT=true
+[2025.02.11-13.44.16:125][309]LogSavePackage: Moving output files for package: /Game/Vehicles/Landyroamer_rrWheel_001
+[2025.02.11-13.44.16:125][309]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_rrWheel_0014E62B4204B86041636B5A898F5D2C003.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_rrWheel_001.uasset'
+[2025.02.11-13.44.16:130][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Landyroamer_snorkel" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_snorkel.uasset" SILENT=true
+[2025.02.11-13.44.16:133][309]LogSavePackage: Moving output files for package: /Game/Vehicles/Landyroamer_snorkel
+[2025.02.11-13.44.16:133][309]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_snorkelCE362F7F4E451653D67B37AACD4FC0FF.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/Landyroamer_snorkel.uasset'
+[2025.02.11-13.44.16:140][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 252 ms)
+[2025.02.11-13.44.16:141][309]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.11-13.44.16:141][309]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/Landyroamer_bonnetPlates.Landyroamer_bonnetPlates
+[2025.02.11-13.44.16:141][309]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/Landyroamer_bullBar.Landyroamer_bullBar
+[2025.02.11-13.44.16:141][309]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/Landyroamer_landy.Landyroamer_landy
+[2025.02.11-13.44.16:141][309]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.44.16:141][309]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/Landyroamer_rfWheel_002.Landyroamer_rfWheel_002
+[2025.02.11-13.44.16:141][309]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/Landyroamer_rfWheel_003.Landyroamer_rfWheel_003
+[2025.02.11-13.44.16:141][309]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/Landyroamer_roofRack.Landyroamer_roofRack
+[2025.02.11-13.44.16:141][309]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/Landyroamer_rrWheel_001.Landyroamer_rrWheel_001
+[2025.02.11-13.44.16:141][309]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/Landyroamer_snorkel.Landyroamer_snorkel
+[2025.02.11-13.44.16:786][383]LogSlate: Window 'Content Browser' being destroyed
+[2025.02.11-13.44.16:791][383]LogSlate: Window 'Content Browser' being destroyed
+[2025.02.11-13.44.18:980][631]LogSlate: Window 'Message Log' being destroyed
+[2025.02.11-13.44.18:984][631]LogSlate: Window 'Message Log' being destroyed
+[2025.02.11-13.44.23:594][135]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.02.11-13.44.25:072][298]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.11-13.44.25:092][298]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.11-13.44.25:100][299]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.11-13.44.28:100][635]LogContentBrowser: Attempting asset rename: NewFolder -> LandRover
+[2025.02.11-13.44.28:100][635]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.11-13.44.32:021][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.44.32:053][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/387359c5580f06c08c266126b3b46db47e48ba44
+[2025.02.11-13.44.32:053][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/387359c5580f06c08c266126b3b46db4873DFDF848B9A99D30E5C6A4A947CEAC.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/387359c5580f06c08c266126b3b46db47e48ba44.uasset'
+[2025.02.11-13.44.32:057][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/387359c5580f06c08c266126b3b46db47e48ba44_ncl1_1
+[2025.02.11-13.44.32:057][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/387359c5580f06c08c266126b3b46db41112CECF472E433B9182ED9343C3D250.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/387359c5580f06c08c266126b3b46db47e48ba44_ncl1_1.uasset'
+[2025.02.11-13.44.32:062][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/387359c5580f06c08c266126b3b46db47e48ba44_ncl1_2
+[2025.02.11-13.44.32:062][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/387359c5580f06c08c266126b3b46db48C5A65994F096F3714542C8C3B35B5E8.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/387359c5580f06c08c266126b3b46db47e48ba44_ncl1_2.uasset'
+[2025.02.11-13.44.32:647][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/baseGradient_014" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/baseGradient_014.uasset" SILENT=true
+[2025.02.11-13.44.32:650][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/baseGradient_014
+[2025.02.11-13.44.32:650][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/baseGradient_014AE6E5982444F23A2E0CCFEAD5DB17643.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/baseGradient_014.uasset'
+[2025.02.11-13.44.33:223][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/blackGlass_014" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/blackGlass_014.uasset" SILENT=true
+[2025.02.11-13.44.33:225][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/blackGlass_014
+[2025.02.11-13.44.33:225][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/blackGlass_014832A80C1437FA1D9EE623EBDD1880C56.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/blackGlass_014.uasset'
+[2025.02.11-13.44.33:808][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/gradientEmmisive_014" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/gradientEmmisive_014.uasset" SILENT=true
+[2025.02.11-13.44.33:810][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/gradientEmmisive_014
+[2025.02.11-13.44.33:810][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/gradientEmmisive_014EBD9B0B0476546B1474D82BC4879AB82.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/gradientEmmisive_014.uasset'
+[2025.02.11-13.44.33:811][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/Landyroamer_bonnetPlates" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_bonnetPlates.uasset" SILENT=true
+[2025.02.11-13.44.33:813][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/Landyroamer_bonnetPlates
+[2025.02.11-13.44.33:813][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_bonnetPlates9706B0BD4012DD097C503BAEC6DABA60.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_bonnetPlates.uasset'
+[2025.02.11-13.44.33:814][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/Landyroamer_bullBar" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_bullBar.uasset" SILENT=true
+[2025.02.11-13.44.33:816][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/Landyroamer_bullBar
+[2025.02.11-13.44.33:816][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_bullBarD7F56DE94BD1259924E6EAB5C994FA0A.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_bullBar.uasset'
+[2025.02.11-13.44.33:816][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/Landyroamer_landy" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_landy.uasset" SILENT=true
+[2025.02.11-13.44.33:819][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/Landyroamer_landy
+[2025.02.11-13.44.33:819][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_landyAB3A9C554F0B798A2D2122A9CD25B7A6.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_landy.uasset'
+[2025.02.11-13.44.33:820][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/Landyroamer_lfWheel_003" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_lfWheel_003.uasset" SILENT=true
+[2025.02.11-13.44.33:822][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/Landyroamer_lfWheel_003
+[2025.02.11-13.44.33:822][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_lfWheel_003C76F05FD48BC346237AAE2BCA1AB4860.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_lfWheel_003.uasset'
+[2025.02.11-13.44.33:823][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/Landyroamer_rfWheel_002" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_rfWheel_002.uasset" SILENT=true
+[2025.02.11-13.44.33:825][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/Landyroamer_rfWheel_002
+[2025.02.11-13.44.33:825][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_rfWheel_002C03850FF492D2F0314343088AA823D59.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_rfWheel_002.uasset'
+[2025.02.11-13.44.33:825][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/Landyroamer_rfWheel_003" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_rfWheel_003.uasset" SILENT=true
+[2025.02.11-13.44.33:827][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/Landyroamer_rfWheel_003
+[2025.02.11-13.44.33:827][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_rfWheel_0036A98731A478EF03AA21562819915AF47.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_rfWheel_003.uasset'
+[2025.02.11-13.44.33:828][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/Landyroamer_roofRack" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_roofRack.uasset" SILENT=true
+[2025.02.11-13.44.33:830][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/Landyroamer_roofRack
+[2025.02.11-13.44.33:830][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_roofRack7778FF7540CE8515B9FE05A8B9965379.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_roofRack.uasset'
+[2025.02.11-13.44.33:831][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/Landyroamer_rrWheel_001" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_rrWheel_001.uasset" SILENT=true
+[2025.02.11-13.44.33:832][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/Landyroamer_rrWheel_001
+[2025.02.11-13.44.33:832][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_rrWheel_001D27DA1B747BBC489ABE4B788CF477D14.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_rrWheel_001.uasset'
+[2025.02.11-13.44.33:833][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/LandRover/Landyroamer_snorkel" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_snorkel.uasset" SILENT=true
+[2025.02.11-13.44.33:835][ 50]LogSavePackage: Moving output files for package: /Game/Vehicles/LandRover/Landyroamer_snorkel
+[2025.02.11-13.44.33:835][ 50]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/Landyroamer_snorkel3E55EDB54BF4DFD60C8AA8AFBB877FBB.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/LandRover/Landyroamer_snorkel.uasset'
+[2025.02.11-13.44.33:840][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.81 sec (total: 2.07 sec)
+[2025.02.11-13.44.33:855][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.11-13.44.33:858][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.11-13.44.33:861][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.44.33:874][ 50]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Vehicles/LandRover/387359c5580f06c08c266126b3b46db47e48ba44.387359c5580f06c08c266126b3b46db47e48ba44
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Vehicles/LandRover/387359c5580f06c08c266126b3b46db47e48ba44_ncl1_1.387359c5580f06c08c266126b3b46db47e48ba44_ncl1_1
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Vehicles/LandRover/387359c5580f06c08c266126b3b46db47e48ba44_ncl1_2.387359c5580f06c08c266126b3b46db47e48ba44_ncl1_2
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Vehicles/LandRover/baseGradient_014.baseGradient_014
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Vehicles/LandRover/blackGlass_014.blackGlass_014
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Vehicles/LandRover/gradientEmmisive_014.gradientEmmisive_014
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/LandRover/Landyroamer_bonnetPlates.Landyroamer_bonnetPlates
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/LandRover/Landyroamer_bullBar.Landyroamer_bullBar
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/LandRover/Landyroamer_landy.Landyroamer_landy
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/LandRover/Landyroamer_rfWheel_002.Landyroamer_rfWheel_002
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/LandRover/Landyroamer_rfWheel_003.Landyroamer_rfWheel_003
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/LandRover/Landyroamer_roofRack.Landyroamer_roofRack
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/LandRover/Landyroamer_rrWheel_001.Landyroamer_rrWheel_001
+[2025.02.11-13.44.33:874][ 50]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Vehicles/LandRover/Landyroamer_snorkel.Landyroamer_snorkel
+[2025.02.11-13.44.36:994][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_landy.Landyroamer_landy
+[2025.02.11-13.44.36:994][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_landy.Landyroamer_landy
+[2025.02.11-13.44.36:994][347]LogActorFactory: Actor Factory spawned StaticMesh /Game/Vehicles/LandRover/Landyroamer_landy.Landyroamer_landy as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_17
+[2025.02.11-13.44.37:568][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_landy.Landyroamer_landy
+[2025.02.11-13.44.37:568][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_landy.Landyroamer_landy
+[2025.02.11-13.44.37:570][412]LogActorFactory: Actor Factory spawned StaticMesh /Game/Vehicles/LandRover/Landyroamer_landy.Landyroamer_landy as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C58B9122DAD554B02_1151879655
+[2025.02.11-13.44.39:550][613]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.11-13.44.39:554][613]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.11-13.44.39:554][613]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.11-13.44.39:556][613]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms
+[2025.02.11-13.44.39:556][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.11-13.44.39:559][613]PIE: New page: PIE session: ThirdPersonMap (11 Feb 2025, 13:44:39)
+[2025.02.11-13.44.39:562][613]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.02.11-13.44.39:562][613]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.02.11-13.44.39:562][613]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.11-13.44.39:564][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001411s)
+[2025.02.11-13.44.39:564][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.001443s)
+[2025.02.11-13.44.39:565][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.11-13.44.39:566][613]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-13.44.39:566][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-13.44.39:566][613]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.11-13.44.39:567][613]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.11-13.44.39:567][613]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.11-13.44.39:567][613]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.11-13.44.39:567][613]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.11-13.44.39:567][613]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.11-13.44.39:567][613]LogWorldPartition: Display: WorldPartition initialize took 419 us (total: 112 ms)
+[2025.02.11-13.44.39:567][613]LogPlayLevel: PIE: World Init took: (0.001609s)
+[2025.02.11-13.44.39:567][613]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.11-13.44.39:567][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.11-13.44.39:567][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.11-13.44.39:567][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.11-13.44.39:567][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.11-13.44.39:567][613]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.11-13.44.39:567][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.11-13.44.39:567][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.11-13.44.39:567][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.11-13.44.39:567][613]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.11-13.44.39:567][613]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.11-13.44.39:567][613]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.11-13.44.39:569][613]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.11-13.44.39:597][613]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.11-13.44.39:597][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.11-13.44.39:597][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.11-13.44.39:597][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.11-13.44.39:599][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.02.11-13.44.39:599][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.02.11-13.44.39:600][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.02.11-13.44.39:600][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.02.11-13.44.39:600][613]LogInit: FAudioDevice initialized with ID 2.
+[2025.02.11-13.44.39:600][613]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2025.02.11-13.44.39:600][613]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.11-13.44.39:603][613]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.11-13.44.39:603][613]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.11-13.44.39
+[2025.02.11-13.44.39:603][613]LogWorld: Bringing up level for play took: 0.000576
+[2025.02.11-13.44.39:605][613]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.02.11-13.44.39:612][613]PIE: Server logged in
+[2025.02.11-13.44.39:612][613]PIE: Play in editor total start time 0.057 seconds.
+[2025.02.11-13.44.44:109][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-13.44.44:109][ 93]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.11-13.44.44:109][ 93]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.44.44:109][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.44.44:109][ 93]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.11-13.44.44:113][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.11-13.44.44:114][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.44.44:116][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-13.44.44:116][ 93]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.11-13.44.44:116][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.11-13.44.44:118][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.11-13.44.44:122][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.11-13.44.44:170][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.02.11-13.44.51:309][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_roofRack.Landyroamer_roofRack
+[2025.02.11-13.44.51:309][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_roofRack.Landyroamer_roofRack
+[2025.02.11-13.44.51:310][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/Vehicles/LandRover/Landyroamer_roofRack.Landyroamer_roofRack as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_26
+[2025.02.11-13.44.54:282][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_roofRack.Landyroamer_roofRack
+[2025.02.11-13.44.54:282][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_roofRack.Landyroamer_roofRack
+[2025.02.11-13.44.54:283][ 64]LogActorFactory: Actor Factory spawned StaticMesh /Game/Vehicles/LandRover/Landyroamer_roofRack.Landyroamer_roofRack as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C58B9122DAD554B02_1168592656
+[2025.02.11-13.45.30:207][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.45.30:241][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.02.11-13.45.30:243][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.45.30:245][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.11-13.45.30:247][631]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/PG/LL7EXWWC9GSPMDF92XZTE0
+[2025.02.11-13.45.30:247][631]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/LL7EXWWC9GSPMDF92XZTE031ABE3B44D9D83A126F297B15499E457.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/PG/LL7EXWWC9GSPMDF92XZTE0.uasset'
+[2025.02.11-13.45.30:249][631]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/63/AIJLLVVTWU7CP622HX4M4D
+[2025.02.11-13.45.30:249][631]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/AIJLLVVTWU7CP622HX4M4D7BAF80604DEBE206DF3B83AFF6DF5760.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/63/AIJLLVVTWU7CP622HX4M4D.uasset'
+[2025.02.11-13.45.30:255][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 2.12 sec)
+[2025.02.11-13.45.30:257][631]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.11-13.45.30:257][631]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C58B9122DAD554B02_1151879655
+[2025.02.11-13.45.30:257][631]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C58B9122DAD554B02_1168592656
+[2025.02.11-13.45.34:292][ 14]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.45.34:292][ 14]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.45.34:293][ 14]LogActorFactory: Actor Factory spawned StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_27
+[2025.02.11-13.45.35:541][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.45.35:541][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.45.35:543][138]LogActorFactory: Actor Factory spawned StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C58B9122DAD554B02_1209851657
+[2025.02.11-13.45.53:236][870]Cmd: PIVOT CENTERSELECTION
+[2025.02.11-13.45.58:097][371]Cmd: ACTOR UNBAKEPREPIVOT
+[2025.02.11-13.46.17:968][471]Cmd: DELETE
+[2025.02.11-13.46.17:968][471]Cmd: ACTOR DELETE
+[2025.02.11-13.46.17:969][471]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.46.17:981][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.11-13.46.17:982][471]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.02.11-13.46.20:143][691]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.46.20:175][691]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-13.46.20:175][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-13.46.20:534][691]LogViewport: Scene viewport resized to 1841x1175, mode Windowed.
+[2025.02.11-13.46.22:032][793]LogViewport: Scene viewport resized to 1837x1209, mode Windowed.
+[2025.02.11-13.46.22:114][795]LogViewport: Scene viewport resized to 591x282, mode Windowed.
+[2025.02.11-13.46.22:137][796]LogViewport: Scene viewport resized to 571x267, mode Windowed.
+[2025.02.11-13.46.22:475][828]LogViewport: Scene viewport resized to 2815x1881, mode Windowed.
+[2025.02.11-13.46.22:788][850]LogSlate: Window 'Landyroamer_lfWheel_003' being destroyed
+[2025.02.11-13.46.38:512][546]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.11-13.46.38:516][546]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.11-13.46.38:516][546]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.11-13.46.38:517][546]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 2 ms)
+[2025.02.11-13.46.38:517][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.11-13.46.38:517][546]PIE: New page: PIE session: ThirdPersonMap (11 Feb 2025, 13:46:38)
+[2025.02.11-13.46.38:517][546]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.11-13.46.38:519][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001369s)
+[2025.02.11-13.46.38:519][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.001392s)
+[2025.02.11-13.46.38:521][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.02.11-13.46.38:522][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-13.46.38:522][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-13.46.38:523][546]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.11-13.46.38:523][546]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.11-13.46.38:523][546]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.11-13.46.38:523][546]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.11-13.46.38:523][546]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.11-13.46.38:524][546]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.11-13.46.38:524][546]LogWorldPartition: Display: WorldPartition initialize took 467 us (total: 112 ms)
+[2025.02.11-13.46.38:524][546]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2025.02.11-13.46.38:524][546]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.02.11-13.46.38:524][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.11-13.46.38:524][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.11-13.46.38:524][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.11-13.46.38:524][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.11-13.46.38:524][546]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.11-13.46.38:524][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.11-13.46.38:524][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.11-13.46.38:524][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.11-13.46.38:524][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.11-13.46.38:524][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.11-13.46.38:524][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.11-13.46.38:526][546]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.11-13.46.38:554][546]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.11-13.46.38:554][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.11-13.46.38:554][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.11-13.46.38:554][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.11-13.46.38:555][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.02.11-13.46.38:555][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.02.11-13.46.38:557][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.02.11-13.46.38:557][546]LogInit: FAudioDevice initialized with ID 3.
+[2025.02.11-13.46.38:557][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.02.11-13.46.38:557][546]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.02.11-13.46.38:557][546]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.11-13.46.38:605][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-13.46.38:605][546]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.11-13.46.38:606][546]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.11-13.46.38
+[2025.02.11-13.46.38:606][546]LogWorld: Bringing up level for play took: 0.000558
+[2025.02.11-13.46.38:608][546]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.02.11-13.46.38:612][546]PIE: Server logged in
+[2025.02.11-13.46.38:612][546]PIE: Play in editor total start time 0.096 seconds.
+[2025.02.11-13.46.38:617][546]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.02.11-13.46.40:520][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-13.46.40:520][762]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.11-13.46.40:520][762]LogSlate: Window 'KartingRacer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.02.11-13.46.40:525][762]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.46.40:525][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.46.40:525][762]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.11-13.46.40:527][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.11-13.46.40:528][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.46.40:531][762]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.11-13.46.40:531][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.11-13.46.40:533][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.11-13.46.40:538][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.11-13.46.40:591][765]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.02.11-13.46.44:680][212]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.46.44:680][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.46.47:459][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.46.47:459][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.46.47:460][449]LogActorFactory: Actor Factory spawned StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_28
+[2025.02.11-13.46.48:376][545]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.46.48:376][545]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003
+[2025.02.11-13.46.48:377][545]LogActorFactory: Actor Factory spawned StaticMesh /Game/Vehicles/LandRover/Landyroamer_lfWheel_003.Landyroamer_lfWheel_003 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C58B9122DAD554B02_1282686658
+[2025.02.11-13.46.55:049][255]LogViewport: Scene viewport resized to 2399x1878, mode Windowed.
+[2025.02.11-13.47.22:441][412]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.02.11-13.47.27:536][972]Cmd: ACTOR UNBAKEPREPIVOT
+[2025.02.11-13.47.27:536][972]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.02.11-13.47.40:392][394]LogSlate: Took 0.000892 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.11-13.48.10:808][915]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2025.02.11-13.48.10:809][915]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PivotActor_UAID_2C58B9122DAD554B02_1365118659
+[2025.02.11-13.48.29:627][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.48.29:687][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.11-13.48.29:691][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.11-13.48.29:694][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.02.11-13.48.29:696][  6]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TF/65UG0K6PEWOIMA0J4DZS0S
+[2025.02.11-13.48.29:696][  6]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/65UG0K6PEWOIMA0J4DZS0SE81A129B4980C809DF01F39C818470FF.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TF/65UG0K6PEWOIMA0J4DZS0S.uasset'
+[2025.02.11-13.48.29:699][  6]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/KN/54XZRXWT2VS951FVNYGBVJ
+[2025.02.11-13.48.29:699][  6]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/54XZRXWT2VS951FVNYGBVJEA589A65472B78C82F830A98413D03A3.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/KN/54XZRXWT2VS951FVNYGBVJ.uasset'
+[2025.02.11-13.48.29:709][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.20 sec)
+[2025.02.11-13.48.29:712][  6]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.11-13.48.29:712][  6]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C58B9122DAD554B02_1282686658
+[2025.02.11-13.48.29:712][  6]LogContentValidation: Display: Validating /Script/Engine.Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PivotActor_UAID_2C58B9122DAD554B02_1365118659
+[2025.02.11-13.48.31:127][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.48.31:183][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.48.31:187][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.02.11-13.48.31:190][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.11-13.48.31:197][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.27 sec)
+[2025.02.11-13.48.34:161][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.48.34:199][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.48.34:202][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.48.34:204][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.11-13.48.34:210][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 2.32 sec)
+[2025.02.11-13.48.37:085][836]Cmd: DELETE
+[2025.02.11-13.48.37:085][836]Cmd: ACTOR DELETE
+[2025.02.11-13.48.37:086][836]LogEditorActor: Deleted Actor: Actor
+[2025.02.11-13.48.37:090][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.02.11-13.48.37:091][836]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.02.11-13.48.40:957][287]Cmd: DELETE
+[2025.02.11-13.48.40:957][287]Cmd: ACTOR DELETE
+[2025.02.11-13.48.40:959][287]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.48.40:962][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.11-13.48.40:963][287]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2025.02.11-13.48.52:456][858]LogViewport: Scene viewport resized to 3127x1878, mode Windowed.
+[2025.02.11-13.49.02:627][575]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.11-13.49.02:632][575]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.11-13.49.02:636][575]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.11-13.49.02:651][576]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.11-13.49.07:358][ 29]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Vehicle
+[2025.02.11-13.49.07:361][ 29]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.11-13.49.07:721][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.49.07:781][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/BP_Vehicle" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/BP_Vehicle.uasset" SILENT=true
+[2025.02.11-13.49.07:783][ 65]LogSavePackage: Moving output files for package: /Game/Vehicles/BP_Vehicle
+[2025.02.11-13.49.07:783][ 65]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/BP_Vehicle3347BD4E4570C16319D0898B8E9FFEEC.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/BP_Vehicle.uasset'
+[2025.02.11-13.49.07:789][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.38 sec)
+[2025.02.11-13.49.07:789][ 65]AssetCheck: New page: Asset Save: BP_Vehicle
+[2025.02.11-13.49.07:789][ 65]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Vehicles/BP_Vehicle.BP_Vehicle
+[2025.02.11-13.49.08:673][153]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Vehicles/BP_Vehicle.BP_Vehicle
+[2025.02.11-13.49.08:674][153]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-13.49.08:674][153]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-13.49.08:689][153]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2025.02.11-13.49.09:384][153]LogViewport: Scene viewport resized to 1497x1137, mode Windowed.
+[2025.02.11-13.49.10:906][266]LogViewport: Scene viewport resized to 1493x1171, mode Windowed.
+[2025.02.11-13.49.10:991][268]LogViewport: Scene viewport resized to 613x366, mode Windowed.
+[2025.02.11-13.49.11:010][269]LogViewport: Scene viewport resized to 460x227, mode Windowed.
+[2025.02.11-13.49.11:379][302]LogViewport: Scene viewport resized to 2288x1840, mode Windowed.
+[2025.02.11-13.49.11:607][321]LogSlate: Window 'BP_Vehicle' being destroyed
+[2025.02.11-13.49.21:908][322]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-13.49.27:977][  8]LogEditorTransaction: Undo Modify Component(s)
+[2025.02.11-13.49.29:361][113]BlueprintLog: New page: Compile BP_Vehicle
+[2025.02.11-13.49.29:379][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.02.11-13.49.56:969][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.11-13.49.56:970][554]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.014
+[2025.02.11-13.49.56:971][554]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Vehicles/BP_Vehicle] ([2] browsable assets)...
+[2025.02.11-13.49.57:119][554]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Vehicles/BP_Vehicle.BP_Vehicle]
+[2025.02.11-13.49.57:119][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vehicles/BP_Vehicle]
+[2025.02.11-13.49.57:119][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/BP_Vehicle" FILE="D:/AT_KartRacer/KartingRacer/Saved/Autosaves/Game/Vehicles/BP_Vehicle_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.02.11-13.49.57:122][554]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Vehicles/BP_Vehicle_Auto1
+[2025.02.11-13.49.57:122][554]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/BP_Vehicle_Auto1E1E1B7B8451199B2177E48A67BAB7818.tmp' to 'D:/AT_KartRacer/KartingRacer/Saved/Autosaves/Game/Vehicles/BP_Vehicle_Auto1.uasset'
+[2025.02.11-13.49.57:123][554]LogFileHelpers: Auto-saving content packages took 0.153
+[2025.02.11-13.50.11:658][908]Cmd: DELETE
+[2025.02.11-13.50.11:658][908]Cmd: ACTOR DELETE
+[2025.02.11-13.50.11:659][908]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.50.11:667][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.11-13.50.11:668][908]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.02.11-13.50.12:552][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.50.12:599][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.11-13.50.12:606][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.11-13.50.12:616][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.11-13.50.12:625][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.46 sec)
+[2025.02.11-13.50.13:990][133]Cmd: DELETE
+[2025.02.11-13.50.13:990][133]Cmd: ACTOR DELETE
+[2025.02.11-13.50.13:990][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-13.50.13:998][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.11-13.50.13:999][133]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.02.11-13.51.37:134][462]LogViewport: Scene viewport resized to 1555x871, mode Windowed.
+[2025.02.11-13.51.39:251][468]LogViewport: Scene viewport resized to 3127x1878, mode Windowed.
+[2025.02.11-13.51.42:248][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.51.42:308][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/BP_Vehicle" FILE="D:/AT_KartRacer/KartingRacer/Content/Vehicles/BP_Vehicle.uasset" SILENT=true
+[2025.02.11-13.51.42:311][766]LogSavePackage: Moving output files for package: /Game/Vehicles/BP_Vehicle
+[2025.02.11-13.51.42:312][766]LogSavePackage: Moving 'D:/AT_KartRacer/KartingRacer/Saved/BP_VehicleA6B704374A392095088EE48B7CBEF230.tmp' to 'D:/AT_KartRacer/KartingRacer/Content/Vehicles/BP_Vehicle.uasset'
+[2025.02.11-13.51.42:317][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.53 sec)
+[2025.02.11-13.51.42:321][766]AssetCheck: New page: Asset Save: BP_Vehicle
+[2025.02.11-13.51.42:321][766]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Vehicles/BP_Vehicle.BP_Vehicle
+[2025.02.11-13.51.45:449][130]BlueprintLog: New page: Compile BP_Vehicle
+[2025.02.11-13.51.45:467][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
